@@ -1,0 +1,12 @@
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\bin\Debug\net7.0\ProdajaAntivirusa.Domain.deps.json
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\bin\Debug\net7.0\ProdajaAntivirusa.Domain.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\bin\Debug\net7.0\ProdajaAntivirusa.Domain.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.csproj.AssemblyReference.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.AssemblyInfoInputs.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.AssemblyInfo.cs
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\refint\ProdajaAntivirusa.Domain.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ProdajaAntivirusa.Domain.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Domain\obj\Debug\net7.0\ref\ProdajaAntivirusa.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tv12HWJMkC+HjuXXy4giSAXBq4csIkotl+2GKKYiE1E=",
+  "Source": "ProdajaAntivirusa.Api",
+  "BasePath": "_content/ProdajaAntivirusa.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

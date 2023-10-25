@@ -1,0 +1,17 @@
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Infrastructure.deps.json
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Infrastructure.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Infrastructure.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Application.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Domain.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Application.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\bin\Debug\net7.0\ProdajaAntivirusa.Domain.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.AssemblyInfo.cs
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.csproj.CopyComplete
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\refint\ProdajaAntivirusa.Infrastructure.dll
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ProdajaAntivirusa.Infrastructure.pdb
+C:\Users\Ana\RiderProjects\ProdajaAntivirusa\ProdajaAntivirusa.Infrastructure\obj\Debug\net7.0\ref\ProdajaAntivirusa.Infrastructure.dll
